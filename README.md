@@ -9,3 +9,6 @@ Features
 - **FastAPI Deployment**: Deployed using FastAPI for easy and efficient access to the model.
 - **Real-Time Predictions**: Provides immediate disease classification results for uploaded images.
 - **User-Friendly API**: Simple and intuitive API endpoints for seamless integration and use.
+
+
+![image](https://github.com/Dhillipkumar/Potato-Disease-Classification-CNN/assets/87690147/ed5e9f16-0170-4c78-8576-3c3937feb08d)
